@@ -1,2 +1,2 @@
 # primer_repositorio
-Un repocitorio con archivos para realizar ciclos
+Un repositorio con archivos para realizar ciclos y funciones 
