@@ -1,2 +1,2 @@
 # primer_repositorio
-Este es el primer repositorio que hago 
+Un repocitorio con archivos para realizar ciclos
