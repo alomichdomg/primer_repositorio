@@ -8,8 +8,10 @@ for (i in 1:100) {
   print(paste("alondra",i))
 }
 for (i in 1:100) {
-  print("alondra") #sin la i ya no te marca la numeracion
+  print("Hola alondra") #sin la i ya no te marca la numeracion
 }
+
+
 for (i in 1:150) {#LA ETIQUETA i NO IMPORTA
   #TOMA EL VALOR EN ESE INTERVALO, VA CONTABILIZANDO LAS VECES QUE LO VA HACIENDO
   print("llevar a arreglar la lap")
